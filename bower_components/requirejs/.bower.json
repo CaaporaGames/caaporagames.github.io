@@ -13,5 +13,14 @@
   "license": [
     "BSD-3-Clause",
     "MIT"
-  ]
+  ],
+  "_release": "2.1.19",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.1.19",
+    "commit": "0616d2b7899c058419342c6dff56ca6ad9f04955"
+  },
+  "_source": "https://github.com/jrburke/requirejs-bower.git",
+  "_target": "~2.1.18",
+  "_originalSource": "requirejs"
 }
