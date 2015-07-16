@@ -851,7 +851,7 @@ section #title .credits.right {
 }
 
 .jumbotron {
-    background-image: url('../assets/caipora-background.png');
+    background-image: url('../assets/images/caipora-background.png');
     height: 600px;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
